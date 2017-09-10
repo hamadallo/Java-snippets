@@ -1,4 +1,4 @@
-//@author macbook
+//@author HamadAllo
 public class breakfast extends meal{
     
     private static boolean withBeans(){
