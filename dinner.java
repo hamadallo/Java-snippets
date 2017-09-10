@@ -8,7 +8,7 @@ public class dinner extends meal{
     
     public dinner(String d,String t, boolean wr){
         
-        
+       
     }
     
 }
