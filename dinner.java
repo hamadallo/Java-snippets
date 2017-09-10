@@ -1,4 +1,4 @@
-//@author macbook
+//@author HamadAllo
 public class dinner extends meal{
     
     private static boolean withRice() {
